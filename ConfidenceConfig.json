@@ -1,0 +1,172 @@
+{
+    "ConfidenceButtonSet": [
+        {
+            "SetName": "Default",
+            "Buttons": [
+                {
+                    "DisplayText": "D1a"
+                },
+                {
+                    "DisplayText": "D1b"
+                },
+                {
+                    "DisplayText": "D1c"
+                },
+                {
+                    "DisplayText": "D1d"
+                },
+                {
+                    "DisplayText": "D1e"
+                },
+                {
+                    "DisplayText": "D2a"
+                },
+                {
+                    "DisplayText": "D2b"
+                },
+                {
+                    "DisplayText": "D2c"
+                },
+                {
+                    "DisplayText": "D3a"
+                },
+                {
+                    "DisplayText": "D3b"
+                },
+                {
+                    "DisplayText": "D3c"
+                },
+                {
+                    "DisplayText": "D4a"
+                },
+                {
+                    "DisplayText": "D4b"
+                },
+                {
+                    "DisplayText": "D4c"
+                },
+                {
+                    "DisplayText": "D4d"
+                },
+                {
+                    "DisplayText": "D5a"
+                },
+                {
+                    "DisplayText": "D5b"
+                }
+            ]
+        },
+        {
+            "SetName": "Planning",
+            "Buttons": [
+                {
+                    "DisplayText": "M1a"
+                },
+                {
+                    "DisplayText": "M1b"
+                },
+                {
+                    "DisplayText": "M1c"
+                },
+                {
+                    "DisplayText": "M1d"
+                },
+                {
+                    "DisplayText": "M1e"
+                },
+                {
+                    "DisplayText": "M2a"
+                },
+                {
+                    "DisplayText": "M2b"
+                },
+                {
+                    "DisplayText": "M2c"
+                },
+                {
+                    "DisplayText": "M3a"
+                },
+                {
+                    "DisplayText": "M3b"
+                },
+                {
+                    "DisplayText": "M3c"
+                },
+                {
+                    "DisplayText": "M4a"
+                },
+                {
+                    "DisplayText": "M4b"
+                },
+                {
+                    "DisplayText": "M4c"
+                },
+                {
+                    "DisplayText": "M4d"
+                },
+                {
+                    "DisplayText": "M5a"
+                },
+                {
+                    "DisplayText": "M5b"
+                }
+            ]
+        },
+        {
+            "SetName": "PointX",
+            "Buttons": [
+                {
+                    "DisplayText": "P1a"
+                },
+                {
+                    "DisplayText": "P1b"
+                },
+                {
+                    "DisplayText": "P1c"
+                },
+                {
+                    "DisplayText": "P1d"
+                },
+                {
+                    "DisplayText": "P1e"
+                },
+                {
+                    "DisplayText": "P2a"
+                },
+                {
+                    "DisplayText": "P2b"
+                },
+                {
+                    "DisplayText": "P2c"
+                },
+                {
+                    "DisplayText": "P3a"
+                },
+                {
+                    "DisplayText": "P3b"
+                },
+                {
+                    "DisplayText": "P3c"
+                },
+                {
+                    "DisplayText": "P4a"
+                },
+                {
+                    "DisplayText": "P4b"
+                },
+                {
+                    "DisplayText": "P4c"
+                },
+                {
+                    "DisplayText": "P4d"
+                },
+                {
+                    "DisplayText": "P5a"
+                },
+                {
+                    "DisplayText": "P5b"
+                }
+            ]
+        }
+    ]
+}
